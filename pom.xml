@@ -43,7 +43,7 @@
         <dependency>
             <groupId>com.vaadin</groupId>
             <artifactId>vaadin-bom</artifactId>
-            <version>16.0.0</version>
+            <version>18.0.7</version>
             <type>pom</type>
         </dependency>
         <dependency>
